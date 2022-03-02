@@ -1,2 +1,1 @@
-#!bin/bash
-echo "ALX System Engineering DevOps"
+Contains the script for the current working directory
