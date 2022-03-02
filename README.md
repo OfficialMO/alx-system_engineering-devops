@@ -1,1 +1,2 @@
-ALX System Engineering DevOps
+#!bin/bash
+echo "ALX System Engineering DevOps"
